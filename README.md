@@ -1,5 +1,5 @@
 # multilingual_VSE
-
+The only full marks project in CS480/CS680, Fall 2018, at the University of Waterloo. Explored transfer learning in a multilingual setting under the context of bidirectional text-image retrieval and Visual Semantic Embeddings (VSE). [Proposal](http://fangyuliu.me/media/pdfs/VGCLTL_proposal.pdf) [Report](http://fangyuliu.me/media/pdfs/VGCLTL_report.pdf)
 ## requirements
 - PyTorch >= 1.0
 
